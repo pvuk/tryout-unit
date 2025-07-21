@@ -1,0 +1,14 @@
+com\nl\unit\trace\bank\entity\BankGroupMaster.class
+com\nl\unit\trace\bank\entity\BankMaster.class
+com\nl\unit\trace\bank\entity\Auditable.class
+com\nl\unit\trace\bank\entity\BankGroupMaster$BankGroupMasterBuilder.class
+com\nl\unit\trace\bank\repository\BankMasterCRRepository.class
+com\nl\unit\trace\bank\repository\BankGroupMasterCRRepository.class
+com\nl\unit\TryoutUnitApplication.class
+com\nl\unit\trace\bank\entity\BankGroupMasterCR$BankGroupMasterCRBuilder.class
+com\nl\unit\trace\bank\entity\BankGroupMasterCR.class
+com\nl\unit\trace\bank\entity\BankMasterCR$BankMasterCRBuilder.class
+com\nl\unit\trace\bank\entity\BankMasterCR.class
+com\nl\unit\KafkaProducerFileMetadata$KafkaProducerFileMetadataBuilder.class
+com\nl\unit\KafkaProducerFileMetadata.class
+com\nl\unit\trace\bank\entity\BankMaster$BankMasterBuilder.class
