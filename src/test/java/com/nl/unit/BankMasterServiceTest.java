@@ -11,7 +11,6 @@ import org.mockito.junit.jupiter.MockitoExtension;
 
 import com.nl.unit.trace.bank.entity.BankMasterCR;
 import com.nl.unit.trace.bank.repository.BankMasterCRRepository;
-import com.nl.unit.trace.bank.service.BankMasterCRService;
 import com.nl.unit.trace.bank.service.impl.BankMasterCRServiceImpl;
 
 /**
