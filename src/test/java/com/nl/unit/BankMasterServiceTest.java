@@ -20,6 +20,7 @@ import com.nl.unit.trace.bank.service.impl.BankMasterCRServiceImpl;
 	What it tests: Just the logic of one class or method.
 	Dependencies: Mocked using tools like Mockito.
 	Speed: Very fast.
+
 	Example: Testing BankDetailsService.getDetailsByAccountNumber() by mocking the repository.
 	
 	<b>*** You're not connecting to the database here — you're just checking if the service behaves correctly when the repository returns certain values.</b>
